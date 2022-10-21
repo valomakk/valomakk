@@ -1,14 +1,6 @@
 ### Hi everyone! 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-</div> 
-<div id="header" align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://https://t.me/xwnkp)](https://t.me/xwnkp)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gybskaya.anna@gmail.com)](mailto:gybskaya.anna@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/valeriagirko/)](https://www.linkedin.com/in/valeriagirko/)
-
-<img src="https://komarev.com/ghpvc/?username=valomakk&style=flat-square&color=blue" alt=""/>
+<div id="header" align="center">
 
 ### :woman_technologist: About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full-Stack JavaScript developer, working in web development for over 2 years.
@@ -30,3 +22,14 @@
 
 ### :fire: My GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=valomakk)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</div> 
+<div id="header" align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://https://t.me/xwnkp)](https://t.me/xwnkp)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gybskaya.anna@gmail.com)](mailto:gybskaya.anna@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/valeriagirko/)](https://www.linkedin.com/in/valeriagirko/)
+
+<img src="https://komarev.com/ghpvc/?username=valomakk&style=flat-square&color=blue" alt=""/>
