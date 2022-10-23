@@ -1,6 +1,7 @@
+<div id="header" align="center">
+
 ### Hi everyone! 👋
 
-<div id="header" align="center">
 
 ### :woman_technologist: About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full-Stack JavaScript developer, working in web development for over 2 years.
