@@ -4,7 +4,7 @@
 
 
 ### :woman_technologist: About Me :
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full-Stack JavaScript developer, working in web development for over 2 years.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Full-Stack developer with more than 2 years of experience.
 - 👩🏼‍💻 I’m currently working with: React.js and everything Web development related.
 - 🤍  In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - :zap: I'm focused on results and ready to solve problems of any complexity.
